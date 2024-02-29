@@ -1,5 +1,3 @@
-// === DO NOT EDIT THIS REGION ===
-// Read the comments to understand how the program is structured.
 
 // Prompt the user for a list of integers separated by commas.
 const userInputString = prompt(
